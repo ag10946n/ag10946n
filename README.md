@@ -1,7 +1,7 @@
-<a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/Python-31%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/JavaScript-25%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C-24%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/maksymkarunos"><img src="https://img.shields.io/badge/C++-14%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/Python-31%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/JavaScript-25%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/C-24%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/C++-14%20commits-orange.svg" alt=""></a>
 ![](https://komarev.com/ghpvc/?username=MaksymKarunos&color=green)  
 ### I'm Anastasia! I am a Software Engineer from Mercer Island, WA
 - ⚡ I have recently completely CS50 Introduction to Porgramming with Pyton by Harvard University.        
@@ -10,6 +10,6 @@
        
 ### Connect with me:    
    
-[<img align="left" alt="anastasiaKarunos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anastasiakarunos/) 
-[<img align="left" alt="anastasiaKarunos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ag10946n@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[<img align="left" alt="ag10946n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anastasiakarunos/) 
+[<img align="left" alt="ag10946n | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ag10946n@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 <br /> 
