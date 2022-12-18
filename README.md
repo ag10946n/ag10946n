@@ -1,8 +1,6 @@
-<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/Python-31%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/JavaScript-25%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/C-24%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/C++-14%20commits-orange.svg" alt=""></a>
-![](https://komarev.com/ghpvc/?username=MaksymKarunos&color=green)  
+<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/Python-400%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/Java-80%20commits-orange.svg" alt=""></a>
+![](https://komarev.com/ghpvc/?username=ag10946n&color=green)  
 ### I'm Anastasia! I am a Software Engineer from Mercer Island, WA
 - ⚡ I have recently completely CS50 Introduction to Porgramming with Pyton by Harvard University.        
 - 🔭 I've attended Pace University, New York City from 2016 to 2020 to pursue a degree in Computer Science, B.S.
