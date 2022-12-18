@@ -2,9 +2,10 @@
 <a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/Java-80%20commits-orange.svg" alt=""></a>
 ![](https://komarev.com/ghpvc/?username=ag10946n&color=green)  
 ### I'm Anastasia! I am a Software Engineer from Mercer Island, WA
-- ⚡ I have recently completely CS50 Introduction to Porgramming with Pyton by Harvard University.        
+- ⚡ I have recently completely CS50 Introduction to Porgramming with Python by Harvard University.        
 - 🔭 I've attended Pace University, New York City from 2016 to 2020 to pursue a degree in Computer Science, B.S.
-- 🌱 I’m currently learning Python, Java, and Backend Engineering skills and looking for a new Software Enginer opportunity in Greater Seattle Area!
+- 🌱 I’m currently learning Python, Java, SQL, and other Backend Engineering skills.
+- 💼 I'm looking for new Software Enginer opportunities in Greater Seattle Area! :)
        
 ### Connect with me:    
    
