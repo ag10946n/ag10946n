@@ -1,5 +1,6 @@
 <a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/Python-400%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/Java-80%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/Swift-80%20commits-orange.svg" alt=""></a>
 ![](https://komarev.com/ghpvc/?username=ag10946n&color=green)  
 ### I'm Anastasia! I am a Software Engineer from Mercer Island, WA
 - ⚡ I have recently completely CS50 Programming with Python by Harvard University and a BackEnd Developer Course by Meta.        
