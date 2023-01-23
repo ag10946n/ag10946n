@@ -3,7 +3,8 @@
 <a href="https://sourcerer.io/ag10946n"><img src="https://img.shields.io/badge/Swift-4%20commits-orange.svg" alt=""></a>
 ![](https://komarev.com/ghpvc/?username=ag10946n&color=green)  
 ### I'm Anastasia! I am a Software Engineer from Mercer Island, WA
-- ⚡ I have recently completely CS50 Programming with Python by Harvard University and a BackEnd Developer Course by Meta.        
+- ⚡ I have recently completely CS50 Programming with Python by Harvard University and a BackEnd Developer Course by Meta.
+- 🌟 I'm currently persuing an Undergraduate Coding Certification by Harvard University Extension School.        
 - 🔭 I've attended Pace University, New York City from 2016 to 2020 to pursue a degree in Computer Science, B.S.
 - 🌱 I’m currently learning Machine Learning, AWS Services, API Design and other Backend Engineering skills.
 - 💼 I'm looking for new Software Enginer opportunities in Greater Seattle Area! :)
