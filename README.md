@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=ag10946n&color=green)  
 ### I'm Anastasia! I am a Software Engineer from Anacortes, WA
 - ⚡ I have recently completely CS50 Programming with Python by Harvard University and a BackEnd Developer Course by Meta.
-- 🌟 I'm currently persuing an Undergraduate Coding Certification by Harvard University Extension School.        
+- 🌟 I'm currently persuing an Undergraduate degree in Computer Science at the Harvard University Extension School.        
 - 🔭 I've attended Pace University, New York City from 2016 to 2020 to pursue a degree in Computer Science, B.S.
 - 🌱 I’m currently learning Machine Learning, AWS Services, API Design and other Backend Engineering skills in my free time.
 - 💼 I'm looking for new Software Enginer opportunities in Greater Seattle Area! :)
